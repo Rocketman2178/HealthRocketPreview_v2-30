@@ -186,7 +186,7 @@ export function DashboardHeader({
             {/* Beta indicator */}
             <div className="absolute -top-5 right-4">
               <div className="bg-black/20 backdrop-blur-sm px-2 py-0.5 rounded text-xs font-medium text-orange-500 border border-orange-500/30">
-                Preview v2.30
+                Preview v2.3.1
               </div>
             </div>
             <button 
